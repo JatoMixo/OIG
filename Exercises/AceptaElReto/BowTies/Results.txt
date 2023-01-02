@@ -1,0 +1,18 @@
+System Train
+------------
+Golden Medal(MIN): 5
+Silver Medal(MIN): 8
+Bronze Medal(MIN): 12
+
+Started traning at Mon Jan 02 12:46:20 2023
+
+Finished training at Mon Jan 02 12:57:49 2023
+
+FINAL TIME
+----------
+0 H 11 MIN 11 SEC
+
+MEDAL
+-----
+Bronze Medal: Did it in less than 12 minutes.
+You have no idea about what you are doing.
