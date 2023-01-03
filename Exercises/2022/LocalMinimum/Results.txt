@@ -1,0 +1,22 @@
+System Train
+------------
+Golden Medal(MIN): 7
+Silver Medal(MIN): 10
+Bronze Medal(MIN): 15
+
+Started traning at Tue Jan 03 12:30:18 2023
+
+Finished training at Tue Jan 03 12:49:13 2023
+
+FINAL TIME
+----------
+0 H 18 MIN 18 SEC
+
+MEDAL
+-----
+You have no medal, you couldn't do it in less than 15 minutes.
+You fucking suck at this, try training more.
+
+Answer
+------
+Used the worst possible algorithm.
